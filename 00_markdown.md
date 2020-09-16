@@ -42,10 +42,11 @@
 
 
 
-	1. 순서가 있는 항목
- 	2. 순서가 있는 항목
-      	1. 순서가 있는 하위 항목
-      	2. 순서가 있는 하위 항목
+1. 순서가 있는 항목
+
+   	2. 순서가 있는 항목
+        	1. 순서가 있는 하위 항목
+        	2. 순서가 있는 하위 항목
 
 
 
@@ -65,7 +66,7 @@
 * Block
   * 여기 백틱 어떻게 입력??  (백틱)을 3번 입력하고 `Enter `를 눌러 생성합니다.
 
-​	`add` 한 요소를 remote 저장소에 올리려면 `$ git push origin master`를 터미널에 입력합니다.
+`add` 한 요소를 remote 저장소에 올리려면 `$ git push origin master`를 터미널에 입력합니다.
 
 ``` shell
 $ git add.
@@ -82,7 +83,7 @@ $ git push origin master
 * `![]()` 을 작성하고 `()` 안에 이미지 주소를 입력합니다. `[]` 안에는 이미지 파일의 이름을 작성합니다.
 * 로컬에 이미지 파일을 저장한 경우 절대 경로가 아닌 상대 경로를 사용하여 이미지를 저장합니다.
 
-![github 이미지](C:\Users\user\Desktop\정혜린.assets\github 이미지.PNG)
+![github image](C:\Users\user\TIL\00_markdown.assets\github image.PNG)
 
 ### 1.5 Link
 
@@ -143,6 +144,8 @@ Staging Area
 *******************************
 
 Remote Repository
+
+______
 
 
 
